@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
+body {
+  background: aliceblue;
+  text-align: center;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/57/f1/4d/57f14dd5974d870082976dd1030a3b32.jpg");
+  background-repeat: repeat-x;
+}
 
-<h1>It's All About Me: Meredith MacLaren Thomas</h1>
-<p>I am 14 years old, but I will be 15 in two months which I try to remind my friends. I love my family and my goldendoodle Nellie!</p>
-<img src="http://cdn3-www.dogtime.com/assets/uploads/gallery/goldendoodle-dog-breed-pictures/puppy-4_1.jpg" alt="dogtime.com" width="453" height="632"
-
-</body>
-</html>
+h1, h2 {
+  color: white;
+  text-align: center;
+}
