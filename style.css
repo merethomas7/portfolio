@@ -1,0 +1,11 @@
+body {
+  background: aliceblue;
+  text-align: center;
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/57/f1/4d/57f14dd5974d870082976dd1030a3b32.jpg");
+  background-repeat: repeat-x;
+}
+
+h1, h2 {
+  color: white;
+  text-align: center;
+}
