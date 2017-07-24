@@ -7,6 +7,7 @@ function aboutMe() {
   var x = document.getElementById("moreMe");
 
 window.alert("Welcome to My Webpage!");
+}
 
 // function MouseRollover(MyImage) {
 //   MyImage.src = "goldendoodle puppy";
