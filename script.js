@@ -16,12 +16,12 @@ window.alert("Welcome to My Webpage!");
 // MyImage.src = "goldendoodle puppy orig.";
 // }
 
-function test(){
+function myTest(){
   document.getElementById("puppy").style.height="200px";
   document.getElementById("puppy").style.width="232px";
 }
 
-function test2(){
+function myTest2(){
   document.getElementById("puppy").style.height="100px";
   document.getElementById("puppy").style.width="132px";
 }
